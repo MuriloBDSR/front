@@ -1,5 +1,5 @@
 import './cabecalho.css'
-import UnB from '../images/UnB.png'
+import UnB from '../../images/UnB.png'
 function Cabecalho(){
 
     return(
